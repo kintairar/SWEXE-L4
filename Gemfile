@@ -56,4 +56,4 @@ group :test do
   gem "selenium-webdriver"
 end
 
-gem "pg", "~> 1.4", group: :production
+gem "pg", "~> 1.5", group: :production
